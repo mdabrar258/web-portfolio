@@ -1,0 +1,19 @@
+body{
+    font-family: 'Solway', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+    font-family: 'Klee One', cursive;
+}
+.introduction-1{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 2px;
+}
+.introduction-1 img{
+    width: 100%;
+}
